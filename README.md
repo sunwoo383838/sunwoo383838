@@ -8,4 +8,4 @@ Research Interests:
 - Distributed Systems
 - LLM Agents
 
-Email: your_school_email@syu.ac.kr
+Email: sunwoo3856@syuin.ac.kr
